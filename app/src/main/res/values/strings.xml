@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bee.Co</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Senha</string>
+    <string name="login_password_hide">********</string>
+    <string name="email">email</string>
+    <string name="btn_sign_in">Entrar</string>
+    <string name="btn_save_register">Salvar</string>
+    <string name="btn_sign_Up">Cadastrar-se</string>
+    <string name="app_login_info">Esqueci Minha Senha</string>
+    <string name="app_remember_password">Lembre-Me</string>
+    <string name="Sign_in_Email">Email</string>
+    <string name="Sign_in_Name">Nome</string>
+    <string name="Sign_in_CPF">CPF</string>
+    <string name="Sign_in_Password_Confirm">Confirme Sua Senha</string>
+    <string name="Sign_in_Celphone">Celular</string>
+    <string name="title_activity_main">main</string>
+    <string name="username">Nome Do Usuario</string>
+    <string name="user_text1">Contratar um profissional</string>
+    <string name="user_text2">Pedidos que solicitei</string>
+    <string name="user_text3">Tornar-se um profissional</string>
+    <string name="app_back">Voltar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="msg_required_field">Esse campo é obrigatório</string>
+</resources>

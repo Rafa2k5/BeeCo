@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751525472559",
+    "firebase_url": "https://beeco-56095.firebaseio.com",
+    "project_id": "beeco-56095",
+    "storage_bucket": "beeco-56095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751525472559:android:10bf5e909de1778feed9da",
+        "android_client_info": {
+          "package_name": "com.etec.beeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751525472559-3nf8uibmdnbsv41aohridjvekd295a4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehWU6k79LB9IBm0v0YZBgQQUcf5zLA_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751525472559-3nf8uibmdnbsv41aohridjvekd295a4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
